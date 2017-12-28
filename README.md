@@ -5,7 +5,7 @@ Here is an example of how to use it as a server-side state management.
 
 This repository is a proof of concept, so it's not a real world use-case.
 
-# How to test
+# How to Try
 - Read and understand the Javascript files.
 - run `npm i` to install dependencies.
 - run `node index.js` to see how the state will be updated and printed.
